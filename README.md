@@ -1,3 +1,5 @@
 # MAP512 - Watermarking by Tardos Code
 
-Report in French can be viewed here : https://www.overleaf.com/read/bmpkcbgqmbdw
+Report in French: "MAP512_Laruelle_Freitas.pdf"
+
+Jupyter Notebook for the simulations: "MAP512_Laruelle_Freitas.ipynb"
